@@ -9,4 +9,4 @@ child_type: docs
 
 # Uputstva Pitalice
 
-Uputstva za korisnike i ostale informacije od pravnog značaja
+Uputstva za korisnike i ostale informacije od pravnog značaja - test sinhronizacije
